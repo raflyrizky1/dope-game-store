@@ -1,4 +1,4 @@
-# application-dope-game-store
+# DoPe-game-store
 
 DoPe Game Store is a shop that sells many types of game. To manage all the transactions and manage system of the beverage, this project create the program for the store. The program was made using Java Programming Language.
 
